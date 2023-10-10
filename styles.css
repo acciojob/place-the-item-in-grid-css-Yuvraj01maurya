@@ -4,8 +4,8 @@
   display: grid;
   grid-template-columns: repeat(100px 100px); /* Two equal columns */
   grid-template-rows: repeat(100px 100px); /* Two equal rows */
-  width: 200px; /* Total size of 200px */
-  height: 200px; /* Total size of 200px */
+  width: 100px; /* Total size of 200px */
+  height: 100px; /* Total size of 200px */
   gap: 5px; /* Adjust the gap between items as needed */
 }
 
